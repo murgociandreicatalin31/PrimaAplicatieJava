@@ -1,8 +1,11 @@
 package ro.java.ctrln;
 
 public class Main {
-    public static void main(String[] args) {
 
-	    System.out.println("Invat Limbajul Java si despre masina virtuala Java!");
+    // Aceasta este metoda main, care porneste o aplicatie Java
+    public static void main(String[] args) {
+        //Inainte de comentariu nu se poate pune text
+        // aici vrem sa afisam pe consola IntelliJ un mesaj ales de noi
+        System.out.println("Invat Limbajul Java si despre masina virtuala Java!");
     }
 }
